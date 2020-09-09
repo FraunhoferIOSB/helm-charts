@@ -2,8 +2,30 @@ apiVersion: v1
 entries:
   frost-server:
   - apiVersion: v1
+    appVersion: 1.12.2
+    created: 2020-09-09T09:54:10.867051616Z
+    description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
+      first complete, open-source implementation of the OGC SensorThings API Part
+      1 (Sensing).
+    digest: 0e310f1c46dd9fb7d190e318dcf001bdc734a6920ed4fb7edbe0f4445ed4436d
+    home: https://github.com/FraunhoferIOSB/FROST-Server
+    icon: https://raw.githubusercontent.com/FraunhoferIOSB/FROST-Server/master/docs/images/FROST-Server-darkgrey.png
+    keywords:
+    - sensorthings-api
+    - sensorthings
+    - ogc
+    - sensing
+    - iot
+    - frost
+    name: frost-server
+    sources:
+    - https://github.com/FraunhoferIOSB/FROST-Server
+    urls:
+    - https://fraunhoferiosb.github.io/helm-charts/frost-server-1.12.2.tgz
+    version: 1.12.2
+  - apiVersion: v1
     appVersion: 1.12.0
-    created: 2020-09-09T09:10:36.284424622Z
+    created: 2020-09-09T09:54:10.866363731Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -25,7 +47,7 @@ entries:
     version: 1.12.1
   - apiVersion: v1
     appVersion: 1.12.0
-    created: 2020-09-09T09:10:36.283776668Z
+    created: 2020-09-09T09:54:10.865713711Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -47,7 +69,7 @@ entries:
     version: 1.12.0
   - apiVersion: v1
     appVersion: 1.11.3
-    created: 2020-09-09T09:10:36.283105459Z
+    created: 2020-09-09T09:54:10.86503153Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -69,7 +91,7 @@ entries:
     version: 1.11.3
   - apiVersion: v1
     appVersion: 1.11.2
-    created: 2020-09-09T09:10:36.282434906Z
+    created: 2020-09-09T09:54:10.864409183Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -91,7 +113,7 @@ entries:
     version: 1.11.2
   - apiVersion: v1
     appVersion: 1.11.1
-    created: 2020-09-09T09:10:36.281790066Z
+    created: 2020-09-09T09:54:10.863779652Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -113,7 +135,7 @@ entries:
     version: 1.11.1
   - apiVersion: v1
     appVersion: 1.11.0
-    created: 2020-09-09T09:10:36.281121793Z
+    created: 2020-09-09T09:54:10.863137018Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -135,7 +157,7 @@ entries:
     version: 1.11.0
   - apiVersion: v1
     appVersion: 1.10.2
-    created: 2020-09-09T09:10:36.280140465Z
+    created: 2020-09-09T09:54:10.862438049Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -157,7 +179,7 @@ entries:
     version: 1.10.3
   - apiVersion: v1
     appVersion: 1.10.1
-    created: 2020-09-09T09:10:36.278803473Z
+    created: 2020-09-09T09:54:10.861093849Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -179,7 +201,7 @@ entries:
     version: 1.10.2
   - apiVersion: v1
     appVersion: "1.1"
-    created: 2020-09-09T09:10:36.277595422Z
+    created: 2020-09-09T09:54:10.859877869Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -201,7 +223,7 @@ entries:
     version: 1.10.1
   - apiVersion: v1
     appVersion: 1.9.3
-    created: 2020-09-09T09:10:36.296981163Z
+    created: 2020-09-09T09:54:10.879456058Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -223,7 +245,7 @@ entries:
     version: 1.9.6
   - apiVersion: v1
     appVersion: 1.9.2
-    created: 2020-09-09T09:10:36.296346067Z
+    created: 2020-09-09T09:54:10.878822749Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -245,7 +267,7 @@ entries:
     version: 1.9.5
   - apiVersion: v1
     appVersion: 1.9.1
-    created: 2020-09-09T09:10:36.295246051Z
+    created: 2020-09-09T09:54:10.878183765Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -267,7 +289,7 @@ entries:
     version: 1.9.4
   - apiVersion: v1
     appVersion: "1.9"
-    created: 2020-09-09T09:10:36.29405001Z
+    created: 2020-09-09T09:54:10.877448335Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -289,7 +311,7 @@ entries:
     version: 1.9.3
   - apiVersion: v1
     appVersion: "1.8"
-    created: 2020-09-09T09:10:36.292784633Z
+    created: 2020-09-09T09:54:10.876141926Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -311,7 +333,7 @@ entries:
     version: 1.8.5
   - apiVersion: v1
     appVersion: "1.8"
-    created: 2020-09-09T09:10:36.291595378Z
+    created: 2020-09-09T09:54:10.87494644Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -333,7 +355,7 @@ entries:
     version: 1.8.4
   - apiVersion: v1
     appVersion: "1.8"
-    created: 2020-09-09T09:10:36.290246048Z
+    created: 2020-09-09T09:54:10.873673132Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -355,7 +377,7 @@ entries:
     version: 1.8.3
   - apiVersion: v1
     appVersion: "1.8"
-    created: 2020-09-09T09:10:36.289549669Z
+    created: 2020-09-09T09:54:10.872104073Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -377,7 +399,7 @@ entries:
     version: 1.8.2
   - apiVersion: v1
     appVersion: "1.8"
-    created: 2020-09-09T09:10:36.288824434Z
+    created: 2020-09-09T09:54:10.871433617Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -399,7 +421,7 @@ entries:
     version: 1.8.1
   - apiVersion: v1
     appVersion: "1.8"
-    created: 2020-09-09T09:10:36.28816894Z
+    created: 2020-09-09T09:54:10.870771892Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -421,7 +443,7 @@ entries:
     version: 1.8.0
   - apiVersion: v1
     appVersion: "1.7"
-    created: 2020-09-09T09:10:36.287476197Z
+    created: 2020-09-09T09:54:10.87009591Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -443,7 +465,7 @@ entries:
     version: 1.7.4
   - apiVersion: v1
     appVersion: "1.7"
-    created: 2020-09-09T09:10:36.286860822Z
+    created: 2020-09-09T09:54:10.869418921Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -465,7 +487,7 @@ entries:
     version: 1.7.3
   - apiVersion: v1
     appVersion: "1.7"
-    created: 2020-09-09T09:10:36.286276044Z
+    created: 2020-09-09T09:54:10.868816752Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -487,7 +509,7 @@ entries:
     version: 1.7.2
   - apiVersion: v1
     appVersion: "1.7"
-    created: 2020-09-09T09:10:36.285692393Z
+    created: 2020-09-09T09:54:10.868233062Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -509,7 +531,7 @@ entries:
     version: 1.7.1
   - apiVersion: v1
     appVersion: "1.7"
-    created: 2020-09-09T09:10:36.285088501Z
+    created: 2020-09-09T09:54:10.867646339Z
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
@@ -529,4 +551,4 @@ entries:
     urls:
     - https://fraunhoferiosb.github.io/helm-charts/frost-server-1.7.0.tgz
     version: 1.7.0
-generated: 2020-09-09T09:10:36.275629288Z
+generated: 2020-09-09T09:54:10.857837562Z
