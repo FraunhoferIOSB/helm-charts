@@ -3,7 +3,7 @@ entries:
   frost-server:
   - apiVersion: v2
     appVersion: 2.8.1
-    created: "2026-09-06T13:10:17.94722199Z"
+    created: "2026-09-08T13:42:41.573602643+02:00"
     dependencies:
     - name: common
       repository: oci://registry-1.docker.io/bitnamicharts
@@ -11,7 +11,7 @@ entries:
     description: The FROST-Server (FRaunhofer Opensource SensorThings-Server) is the
       first complete, open-source implementation of the OGC SensorThings API Part
       1 (Sensing).
-    digest: 7c31e7a05b0f9066ab7e4b01c2bb559d1f287653310f84ed5bf922b545fc2754
+    digest: 1e65ba1debb3e954d1c383e56e2593b70e9dfee5e368a69e3475163111ec817c
     home: https://github.com/FraunhoferIOSB/FROST-Server
     icon: https://raw.githubusercontent.com/FraunhoferIOSB/FROST-Server/master/docs/images/FROST-Server-darkgrey.png
     keywords:
